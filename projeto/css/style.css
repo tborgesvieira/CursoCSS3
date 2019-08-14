@@ -39,7 +39,9 @@ img{
     max-width: 100%;
     border: none;
 }
-#menu, .menu {	display: none; }
+.check {	
+    display: none; 
+}
 /*
 =========================================
 GERAIS
@@ -93,14 +95,13 @@ HEADER
     padding-top:30px;
     z-index: 6;
     transition: all .5s ease-in-out;
+    background: #2c3e50;
+
 }
 .header .logo img{
     max-width: 150px;
 }
-.header.fixed{
-    background: #2c3e50;
-    padding: 10px 0 5px 0;
-}
+
 /*
 =========================================
 SEARCH E ESTATISTICA
@@ -395,15 +396,15 @@ BREACKPOINTS MÁXIMOS
 */
 @media(max-width: 767.9px){
     /*menu*/
+    #check:checked ~ .nav{
+        right: 0;
+    }
     .nav-toggle{
         color: #fff;
         font-size: 22px;        
     }    
     .nav-close{
         font-size: 22px;        
-    }
-    .header .nav.active{
-        right: 0;
     }
     .header .nav{
         background: #fff;
@@ -414,12 +415,12 @@ BREACKPOINTS MÁXIMOS
         right: -100%;
         top: 0;
         z-index: 10;
-        transition: right .7s ease-in-out;
+        transition: right .6s ease-in-out;
     }
     .header .nav ul li{
         padding: 15px 15px;
         font-size: 20px;
-        border-bottom: 1px solid #ccc;
+        border-bottom: 1px solid #ccc;        
     }
 
     /*estatísticas*/
