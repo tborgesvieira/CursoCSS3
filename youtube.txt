@@ -1,6 +1,20 @@
 PS - não sei para que o netbeans
 
-Aula 1 - https://www.youtube.com/watch?v=9dcOX0oOe-k&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS
-Aula 2 - https://www.youtube.com/watch?v=_2C4zpax8BI&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=2
-Aula 3 - https://www.youtube.com/watch?v=HfFonfHl8fA&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=3
-Aula 4 - https://www.youtube.com/watch?v=2Wa7ve4rMbE&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=4
+Aula 01 - https://www.youtube.com/watch?v=9dcOX0oOe-k&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS
+Aula 02 - https://www.youtube.com/watch?v=_2C4zpax8BI&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=2
+Aula 03 - https://www.youtube.com/watch?v=HfFonfHl8fA&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=3
+Aula 04 - https://www.youtube.com/watch?v=2Wa7ve4rMbE&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=4
+Aula 05 - https://www.youtube.com/watch?v=kmFcDHwcuK4&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=5
+Aula 06 - https://www.youtube.com/watch?v=rCDXuDb2eS8&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=6
+Aula 07 - https://www.youtube.com/watch?v=lQ98LYWM6DE&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=7
+Aula 08 - https://www.youtube.com/watch?v=VsEuI10b3fw&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=8
+Aula 09 - https://www.youtube.com/watch?v=7wKwN9ABrJo&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=9
+Aula 10 - https://www.youtube.com/watch?v=a6gvkONiwJg&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=10
+Aula 11 - https://www.youtube.com/watch?v=MXYwePQWGWs&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=11
+Aula 12 - https://www.youtube.com/watch?v=ukHeE4m4CKI&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=12
+Aula 13 - https://www.youtube.com/watch?v=-EYbOeTjooo&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=13
+Aula 14 - https://www.youtube.com/watch?v=3_tCwxUqjPg&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=14
+Aula 15 - https://www.youtube.com/watch?v=TJHoj-C9hWQ&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=15
+Aula 16 - https://www.youtube.com/watch?v=a7hTD6fugTQ&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=16
+Aula 17 - https://www.youtube.com/watch?v=3JHiO5XhCm8&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=17
+Aula 18 - https://www.youtube.com/watch?v=DX2GRJgHwqA&list=PL4I-14pHZsLGp5fLi7TtlSVNRg8r4q2NS&index=18
